@@ -46,4 +46,3 @@ end
 # Time class has not been properly stubbed and tested
 # Statement could have a class of its own
 # data method could be privatised
-# still need to define whether it is a deposit or a withdrawal and put under correct column
